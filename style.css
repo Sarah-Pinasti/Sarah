@@ -1,0 +1,9 @@
+p {
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.border {
+    border: solid black;
+    text-align: center;
+}
